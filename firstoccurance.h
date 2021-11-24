@@ -1,0 +1,1 @@
+void fword(char *,char *);

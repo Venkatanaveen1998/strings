@@ -1,0 +1,1 @@
+void strcating(char *,char *);
